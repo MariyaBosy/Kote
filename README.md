@@ -7,5 +7,5 @@ Note:
 a) If the length of the string is odd there will be two middle characters.
 b) If the length of the string is even there will be one middle character.
 
-Lab 3
+Lab 3:
 Write a Java method to count all vowels in a string. Go to the editor
